@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/upendrku/upendrku/blob/main/Upendra%20Kumar-1.png" alt="drawing" style="height: 200px; width: 200px;" />
+  <img src="https://github.com/upendrku/upendrku/blob/main/Upendra%20Kumar-1.png" alt="drawing" style="height: 300px; width: 300px;" />
 </p>
 
 
