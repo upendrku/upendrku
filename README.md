@@ -1,8 +1,3 @@
-That is a fair point; the previous version was too generic and left out your most impactful technical achievements.
-
-Here is a fully optimized, professional README that pulls in your entire technical stack, your AI integrations, cloud architecture expertise, and video streaming experience.
-
-```markdown
 <p align="center">
   <img src="https://github.com/upendrku/upendrku/blob/main/Upendra%20Kumar-logo.png" alt="Upendra Kumar Logo" style="height: 100px; width: 100px;" />
 </p>
@@ -31,5 +26,3 @@ Here is a fully optimized, professional README that pulls in your entire technic
 * **Cloud & DevOps:** GCP, AWS, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)[cite: 1, 2]
 * **Databases & Data Analytics:** SQL, NoSQL (MongoDB), Firebase, GCP BigQuery, Google Analytics[cite: 2]
 * **Specialized Tech:** OpenAI API, WebRTC, Shaka Player, Splunk[cite: 2]
-
-```
